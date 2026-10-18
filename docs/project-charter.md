@@ -10,10 +10,10 @@ Items in [square brackets] are placeholders to be confirmed by the club.
 |---|---|
 | Project name | Rotaract Club of UNZA Website |
 | Project type | Web development (static, multi-page, responsive) |
-| Sponsor | [Club President] |
-| Project manager / developer | [Name] |
+| Sponsor | Mulya Nyirenda Club President |
+| Project manager / developer | Sakila Ching'ambu |
 | Proposed start | Monday 26 October 2026 |
-| Proposed go-live | Friday 22 January 2027 |
+| Proposed go-live | Monday 30 November 2026 |
 | Budget | Hosting: free tier. Domain name: [optional, cost to be confirmed]. Photography/printing: [none planned] |
 
 ## 1.2 Purpose and justification
@@ -39,7 +39,7 @@ The club needs a professional online home that explains who it is, shows the ser
 | # | Deliverable | Acceptance owner |
 |---|---|---|
 | D1 | Approved requirements and content outline | Club President |
-| D2 | Design direction (colours, type, layout) | Club President / PR officer |
+| D2 | Design direction (colours, type, layout) | Club President / PI Committee |
 | D3 | Working five-page website on a live URL | Club Executive |
 | D4 | Source code in a GitHub repository with README | Project manager |
 | D5 | Documentation pack, kept current | Project manager |
@@ -56,11 +56,11 @@ The club needs a professional online home that explains who it is, shows the ser
 
 | Role | Holder | Responsibilities |
 |---|---|---|
-| Sponsor | [Club President] | Approves charter, scope and go-live; resolves escalations |
-| Project manager and developer | [Name] | Plans, builds, tests, documents, reports progress |
-| Content lead | [Secretary / PR officer] | Supplies and approves text, photos and statistics |
-| Brand reviewer | [PR officer] | Confirms cranberry value, logo use and tone |
-| Rotary liaison | [Rotarian adviser] | Reviews accuracy of Rotary references |
+| Sponsor | Mulya Nyirenda Club President | Approves charter, scope and go-live; resolves escalations |
+| Project manager and developer | Sakila Ching'ambu | Plans, builds, tests, documents, reports progress |
+| Content lead | [Secretary / PI Committee] | Supplies and approves text, photos and statistics |
+| Brand reviewer | PI Committee | Confirms cranberry value, logo use and tone |
+| Rotary liaison | AG Chama Chisimba | Reviews accuracy of Rotary references |
 | Reviewers | Executive members, selected members | Attend review sessions and give feedback |
 
 ## 1.8 Assumptions and constraints
@@ -85,6 +85,6 @@ The club needs a professional online home that explains who it is, shows the ser
 
 | Name | Role | Signature | Date |
 |---|---|---|---|
-| [Name] | Club President (Sponsor) | | |
-| [Name] | Project Manager | | |
-| [Name] | Rotary Liaison (optional) | | |
+| Mulya Nyirenda | Club President (Sponsor) | | |
+| Sakila Ching'ambu | Project Manager | | |
+| AG Chama Chisimba | Rotary Liaison (optional) | | |
